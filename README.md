@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PuttPuttTheTruck
-- I’m currently working on making a roguelite game (currently untitled)
-- My previous projects include "Untitled Space Game" https://store.steampowered.com/app/1459560/Untitled_Space_Game/ and "One Life" (never finished) sites.google.com/view/onelifegame
+- I’m currently working on a VR Cafe Game
+- Previous VR project: https://www.youtube.com/watch?v=b9pKubfCdGA
 - How to reach me: saulmiroullman@gmail.com
