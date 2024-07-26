@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuttPuttTheTruck
-- I’m currently working on a VR Cafe Game
-- Previous VR project: https://www.youtube.com/watch?v=b9pKubfCdGA
+- I'm PuttPuttTheTruck and I make games as "Linear Interpolation"
+- I’m currently working on a player-choice driven game told through texting. 
+- My other projects are here: https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg
 - How to reach me: saulmiroullman@gmail.com
