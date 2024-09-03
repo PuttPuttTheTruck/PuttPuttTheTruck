@@ -1,4 +1,4 @@
-- I'm PuttPuttTheTruck and I make games as "Linear Interpolation"
-- I’m currently working on a player-choice driven game told through texting. 
-- My other projects are here: https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg
+- I'm Saul and I make games as "Linear Interpolation"
+- I’m currently working on a player-choice driven game told through texting and a local-multiplayer stick-figure fighting game.
+- Footage of my previous projects (including VR) are here: https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg
 - How to reach me: saulmiroullman@gmail.com
