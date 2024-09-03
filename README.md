@@ -1,4 +1,5 @@
 - I'm Saul and I make games as "Linear Interpolation"
-- I’m currently working on a player-choice driven game told through texting and a local-multiplayer stick-figure fighting game.
-- Footage of my previous projects (including VR) are here: https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg
+- I’m currently working on a player-choice driven game told through texting: [https://youtu.be/Op79KM7RyOs](https://youtu.be/Op79KM7RyOs)
+- I'm also working on a local-multiplayer stick figure fighting game: [https://www.youtube.com/watch?v=X_eeCiA_J9g](https://www.youtube.com/watch?v=X_eeCiA_J9g)
+- Footage of my previous projects (including VR) are here: [https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg](https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg)
 - How to reach me: saulmiroullman@gmail.com
