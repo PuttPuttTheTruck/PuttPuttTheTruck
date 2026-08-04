@@ -1,5 +1,5 @@
-- I'm Saul and I make games!
-- I'm currently working on a local-multiplayer stick figure fighting game: [https://www.youtube.com/watch?v=LUrkIihNH5c](https://www.youtube.com/watch?v=LUrkIihNH5c)
-- I previously made a player-choice driven game told through texting: [https://youtu.be/Op79KM7RyOs](https://youtu.be/Op79KM7RyOs)
-- Footage of my previous projects (including VR) are here: [https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg](https://www.youtube.com/channel/UCkCrFd1ib8CsLxPyvslKoCg)
+- I'm Saul and I like making games.
+- 2nd Year at UTS (Bachelor of Games Development) (6.67/7 GPA)
+- Producer / Programmer on [CHOPSTICKS: Stick Figure Fighting (Steam Link)](https://store.steampowered.com/app/3982670/CHOPSTICKS_Stick_Figure_Fighting/)
+- Tech Artist on [Terminal Horizon (Steam Link)](https://store.steampowered.com/app/4358600/Terminal_Horizon/)
 - How to reach me: saulmiroullman@gmail.com
